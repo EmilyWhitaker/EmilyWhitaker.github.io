@@ -95,10 +95,10 @@ $(document).ready(function() {
 
 	    $('#page-welcome').vegas({
         slides: [
-            { src: 'img/slider/08.jpg' },
-            { src: 'img/slider/08.jpg' },
-            { src: 'img/slider/08.jpg' },
-            { src: 'img/slider/08.jpg' }
+            { src: 'img/slider/08_noturn.jpg' },
+            { src: 'img/slider/08_noturn.jpg' },
+            { src: 'img/slider/08_noturn.jpg' },
+            { src: 'img/slider/08_noturn.jpg' }
 	],
     overlay: true
 });
