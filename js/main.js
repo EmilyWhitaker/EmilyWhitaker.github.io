@@ -98,7 +98,7 @@ $(document).ready(function() {
             { src: 'img/slider/08_noturn.jpg' },
             { src: 'img/slider/08_noturn.jpg' },
             { src: 'img/slider/08_noturn.jpg' },
-            { src: 'img/slider/08_noturn.jpg' }
+            		{ src: 'img/slider/08_noturn.jpg' }
 	],
     overlay: true
 });
