@@ -1,0 +1,13 @@
+# main links links
+main:
+  #- title: "Publications"
+  #  url: /publications/
+
+  #- title: "Research"
+  #  url: /cv/
+
+#  - title: "Tutorials"
+#    url: /diy/
+
+  - title: "Photos"
+    url: /photos/
