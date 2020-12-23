@@ -2,6 +2,40 @@
 title: Photos
 layout: page
 ---
+<!-- <!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Emily Whitaker</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="">
+  <!-- ADD CSS -->
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <!-- Fonts from Font Awsome -->
+  <link rel="stylesheet" href="css/font-awesome.min.css">
+  <!-- Magnific popup -->
+  <link rel="stylesheet" href="css/magnific-popup.css">
+  <!-- Vegas slider -->
+  <link rel="stylesheet" href="css/vegas.min.css">
+
+  <!-- Color styles -->
+  <link rel="stylesheet" href="css/colors/blue.css">
+  <link rel="stylesheet" href="css/animate.css">
+  <link rel="stylesheet" href="css/morphext.css">
+
+  <!-- Custom styles for this template -->
+  <link rel="stylesheet" href="css/main.css">
+
+  <!-- Feature detection -->
+  <!-- <script src="js/modernizr-2.6.2.min.js"></script> -->
+
+  <!-- Fonts -->
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,900,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Oxygen:400,700' rel='stylesheet' type='text/css'>
+
 </head>
 
 <body>
